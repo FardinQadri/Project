@@ -30,4 +30,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: fardinqadri/mlmodel:latest
+        tags: fardinqadri/great_learning
